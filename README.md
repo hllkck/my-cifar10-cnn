@@ -45,7 +45,7 @@ Further tuning and augmentation can improve the results.
 
 Visual outputs of the training process are as follows:
 
-![Training Graphs](hllkck/my-cifar10-cnn/blob/main/train.png)
+![Training Graphs](train.png)
 
 
 
