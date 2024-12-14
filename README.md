@@ -45,6 +45,8 @@ Further tuning and augmentation can improve the results.
 
 Visual outputs of the training process are as follows:
 
+![Training Graphs](main/train.png)
+
 
 
 
