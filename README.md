@@ -48,5 +48,13 @@ Visual outputs of the training process are as follows:
 ![Training Graphs](train.png)
 
 
+![Test Graphs](test1.png)
+
+
+![Test Graphs](test2.png)
+
+
+
+
 
 
