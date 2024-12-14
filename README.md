@@ -54,6 +54,7 @@ Visual outputs of the training process are as follows:
 ![Test Graphs](test2.png)
 
 
+You can access the Kaggle notebook of the project from this [link](https://www.kaggle.com/code/hilalkk/cifar-10-cnn) .
 
 
 
